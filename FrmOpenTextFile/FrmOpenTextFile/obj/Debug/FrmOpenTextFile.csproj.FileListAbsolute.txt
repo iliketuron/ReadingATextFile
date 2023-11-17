@@ -1,0 +1,11 @@
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\bin\Debug\FrmOpenTextFile.exe.config
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\bin\Debug\FrmOpenTextFile.exe
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\bin\Debug\FrmOpenTextFile.pdb
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.csproj.AssemblyReference.cache
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.Form1.resources
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.Properties.Resources.resources
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.csproj.GenerateResource.cache
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.csproj.CoreCompileInputs.cache
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.exe
+C:\Users\manabat.270056\source\repos\FrmOpenTextFile\FrmOpenTextFile\obj\Debug\FrmOpenTextFile.pdb
